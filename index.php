@@ -8,14 +8,11 @@
     </div>
  <div style="width:100px;height:100px;background:green;color:white;padding:10px;margin:10px">
     Um teste em um quadrado verde
-    </div>
-    <div style="width:100px;height:100px;background:pink">
-    Um teste em um quadrado rosa
-    </div>
-    <div style="width:100px;height:100px;background:white">
-    Um teste em um quadrado branco
-    </div>
+   </div>
     <div style="width:100px;height:100px;background:violet">
     Um teste em um quadrado violeta
+    <br>
+    <img arc="c1.jpg" style="width: 200px">
     </div>
     </div>
+   
